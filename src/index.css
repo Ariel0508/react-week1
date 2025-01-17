@@ -7,3 +7,6 @@
   height: 100px;
   margin-left: 5px;
 }
+.vh-100 {
+  height: 100vh;
+}
